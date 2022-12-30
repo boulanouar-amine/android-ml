@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_main_activitysingup.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_main_activitysingup.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_half_white_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\half_white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_cercle_pic.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\cercle_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_background_btn.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\background_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_algoritm_choice.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_algoritm_choice.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_logopic.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\logopic.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\raw_data.csv.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\raw\\data.csv"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_errorresult_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\errorresult_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_form.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_background_page.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\background_page.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_editetext_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\editetext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\drawable_result_background.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\drawable\\result_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\font_playfulist.ttf.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\font\\playfulist.ttf"
+    },
+    {
+        "merged": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aza\\.gradle\\daemon\\7.4\\com.example.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main_activitysingup.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main_activitysingup.xml"
+    }
+]
